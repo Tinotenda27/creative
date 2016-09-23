@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: lightcyan;
 }
 .bg-dark {
   background-color: #222222;
@@ -135,7 +135,7 @@ aside {
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: crimson;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -335,7 +335,7 @@ fieldset[disabled] .btn-default.active {
   color: white;
   background-color: #222222;
 }
-.btn-primary {
+.btn-primary{
   color: white;
   background-color: #F05F40;
   border-color: #F05F40;
